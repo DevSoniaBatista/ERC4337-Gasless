@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=4FzTJNrycL0
 
 https://www.youtube.com/watch?v=9LcpjXWTry0
 
+Antes de começarmos, gostaria de compartilhar alguns links importantes com vocês. O primeiro é o link do OpenZeppelin Defender: https://defender.openzeppelin.com/.
+
+utro link relevante é o do código que precisaremos inserir na Autotasks. Vocês podem encontrá-lo em: [https://raw.githubusercontent.com/thi....](https://raw.githubusercontent.com/thirdweb-dev/ozdefender-autotask/main/src/forwarder_handler.js?ref=blog.thirdweb.com) Esse código, chamado "forwarder_handler.js", é essencial para que possamos realizar as transações de forma eficiente e sem custos de gas para os usuários.
+
+Por fim, o do site da Thirdweb para criarem sua coleção por lá: https://thirdweb.com/dashboard
+
+Caso queiram conferir o código completo que utilizaremos durante o tutorial, podem acessar meu repositório no GitHub: https://github.com/Afonsodalvi/gaslas.... Lá vocês encontrarão todo o código necessário para criar a coleção de NFTs sem custos de gas.
+
+Agora que já compartilhamos todos os links importantes, vamos começar o tutorial. Tenham em mente que, ao utilizar o ThirdWeb e o OpenZeppelin Defender, vocês terão a oportunidade de oferecer uma experiência mais acessível e atrativa para os usuários, eliminando a necessidade deles pagarem pelos custos de gas.
+
+https://github.com/Afonsodalvi/gaslessOpenzeppelin
+
 
 
 ## Getting Started
