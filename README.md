@@ -11,7 +11,7 @@ utro link relevante é o do código que precisaremos inserir na Autotasks. Você
 
 Por fim, o do site da Thirdweb para criarem sua coleção por lá: https://thirdweb.com/dashboard
 
-Caso queiram conferir o código completo que utilizaremos durante o tutorial, podem acessar meu repositório no GitHub: https://github.com/Afonsodalvi/gaslas.... Lá vocês encontrarão todo o código necessário para criar a coleção de NFTs sem custos de gas.
+Caso queiram conferir o código completo que utilizaremos durante o tutorial, podem acessar meu repositório no GitHub: (https://github.com/Afonsodalvi/gaslessOpenzeppelin) Lá vocês encontrarão todo o código necessário para criar a coleção de NFTs sem custos de gas.
 
 Agora que já compartilhamos todos os links importantes, vamos começar o tutorial. Tenham em mente que, ao utilizar o ThirdWeb e o OpenZeppelin Defender, vocês terão a oportunidade de oferecer uma experiência mais acessível e atrativa para os usuários, eliminando a necessidade deles pagarem pelos custos de gas.
 
